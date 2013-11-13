@@ -10,3 +10,4 @@ This is smart package for use with [Meteor](http://meteor.com/) open-source web 
 1. `npm install -g meteorite` (if not already installed)
 2. `mrt add lodash`
 
+The package exports a global `lodash` variable, although it's meant to replace `_`, so run: `_ = lodash`.

@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.export('_');
-  api.add_files(['pre.js', 'lodash.js', 'post.js']);
+  api.export('lodash');
+  api.add_files(['lodash.js', 'post.js']);
 });
