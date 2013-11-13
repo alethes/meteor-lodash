@@ -3,7 +3,7 @@
   "description": "Lo-Dash.js packaged for Meteor",
   "homepage": "https://github.com/alethes/meteor-lodash",
   "author": "Alethes <pleasesenditthere@gmail.com>",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "git": "https://github.com/alethes/meteor-lodash.git",
   "packages" : {}
 }
