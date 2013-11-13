@@ -1,5 +1,5 @@
 {
-  "name": "lo-dash",
+  "name": "lodash",
   "description": "Lo-Dash.js packaged for Meteor",
   "homepage": "https://github.com/alethes/meteor-lodash",
   "author": "Alethes <pleasesenditthere@gmail.com>",
