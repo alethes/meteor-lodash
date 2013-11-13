@@ -1,10 +1,10 @@
 {
-  "name": "lodash",
+  "name": "lo-dash",
   "description": "Lo-Dash.js packaged for Meteor",
-  "homepage": "https://github.com/hipertracker/meteor-lodash",
-  "author": "Jaroslaw Zabiello <hipertracker@gmail.com> (http://zabiello.com)",
-  "version": "0.3.0",
-  "git": "https://github.com/hipertracker/meteor-lodash.git",
+  "homepage": "https://github.com/alethes/meteor-lodash",
+  "author": "Alethes <pleasesenditthere@gmail.com>",
+  "version": "0.4.0",
+  "git": "https://github.com/alethes/meteor-lodash.git",
   "packages" : {}
 }
 
