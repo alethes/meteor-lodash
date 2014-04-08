@@ -1,2 +1,2 @@
-// lodash accessible server-side
+// load lodash NPM module server-side
 lodash = Npm.require('lodash');
